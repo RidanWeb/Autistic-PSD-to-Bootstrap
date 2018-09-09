@@ -1,0 +1,229 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+h1{
+	font-size: 30px;
+	margin-bottom: 50px;
+}
+h3 {
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+.btn-custom{
+    padding: 10px 55px;
+}
+.mb-30{
+	margin-bottom: 30px;
+}
+.mt-90{
+	margin-top: 60px;
+}
+.mb-90{
+	margin-bottom: 60px;
+}
+	/*header start*/
+header{
+	padding: 15px 0;
+}
+.custom-menu ul li a{
+	padding: 0 !important;
+	text-align: center;
+}
+/*header-end*/
+/*banner-start*/
+.banner{
+	padding: 100px 0;
+}
+.banner-text h1 {
+	font-size: 26px;
+	margin-bottom: 50px;
+}
+.custom-imput input {
+	padding: 12px 30px;
+}
+/*banner-end*/
+/*image-gallery-start*/
+.image-gallery{
+	padding: 60px 0;
+}
+.gallery-text p,.gallery-text i {
+	font-size: 16px;
+}
+.gallery-img img {
+	width: 100%;
+}
+.mb-30-col{
+	margin-top: 30px;
+}
+/*image-gallery-end*/
+/*houses start*/
+.houses-text p {
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+.houses-text span {
+	font-size: 22px;
+}
+/*houses end*/
+/*blog start*/
+.custom-btn-2 {
+	margin-bottom: 50px;
+	padding: 10px 55px;
+}
+.single-blog i {
+	margin-bottom: 50px;
+}
+.single-blog img {
+	width: 100%;
+}
+.single-blog {
+	text-align: center;
+}
+/*blog end*/
+/*contact start*/
+.contact{
+	padding: 50px 0;
+}
+.contact-input input{
+    padding: 8px 20px;
+}
+.contact-input textarea {
+    padding: 8px 20px;
+    border-radius: 30px;
+    height: 60px;
+}
+/*contact end*/
+/*footer-start*/
+footer{
+	padding: 50px 0;
+}
+.list-item ul li {
+	font-size: 16px;
+
+}
+.list-item ul li a {
+	font-size: 14px;
+}
+.social-item ul li i {
+	margin-bottom: 15px;
+}
+.footer-bottom-text p {
+	padding-top: 20px;
+}
+/*footer-end*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+h1{
+	font-size: 34px;
+	margin-bottom: 60px;
+}
+h3 {
+	font-size: 18px;
+	margin-bottom: 28px;
+}
+.btn-custom{
+    padding: 10px 60px;
+}
+.mb-30{
+	margin-bottom: 30px;
+}
+.mt-90{
+	margin-top: 70px;
+}
+.mb-90{
+	margin-bottom: 70px;
+}
+	/*header start*/
+header{
+	background: #3e4b7b;
+	padding: 20px 0;
+}
+.custom-menu ul li a{
+	padding: 0 !important;
+	text-align: center;
+}
+/*header-end*/
+/*banner-start*/
+.banner{
+	padding: 130px 0;
+}
+.banner-text h1 {
+	font-size: 38px;
+	margin-bottom: 55px;
+}
+.custom-imput input {
+	padding: 20px 30px;
+}
+/*banner-end*/
+/*image-gallery-start*/
+.image-gallery{
+	padding: 70px 0;
+}
+.gallery-text p,.gallery-text i {
+	font-size: 18px;
+}
+/*image-gallery-end*/
+/*houses start*/
+.houses-text span {
+	font-size: 22px;
+}
+
+/*houses end*/
+/*blog start*/
+.custom-btn-2 {
+	margin-bottom: 70px;
+	padding: 12px 90px;
+}
+.single-blog {
+	text-align: center;
+}
+.single-blog img {
+	width: 100%;
+}
+.single-blog i {
+	margin-bottom: 70px;
+}
+/*blog end*/
+/*contact start*/
+.contact{
+	padding: 70px 0;
+}
+.contact-input input{
+    padding: 20px;
+}
+.contact-input textarea {
+    padding: 15px;
+    margin-bottom: 15px;
+    height: 70px;
+}
+/*contact end*/
+/*footer-start*/
+footer{
+	padding: 70px 0;
+}
+.footer-bottom-text p {
+	padding-top: 20px;
+}
+/*footer-end*/
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*image-gallery-start*/
+
+.gallery-text p,.gallery-text i {
+	font-size: 18px;
+}
+/*image-gallery-end*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	
+}
